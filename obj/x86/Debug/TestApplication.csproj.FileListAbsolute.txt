@@ -1,0 +1,39 @@
+C:\Users\Student\Desktop\TestApplication\bin\Debug\TestApplication.exe.config
+C:\Users\Student\Desktop\TestApplication\bin\Debug\libusb-1.0.la
+C:\Users\Student\Desktop\TestApplication\bin\Debug\libusb-1.0.dylib
+C:\Users\Student\Desktop\TestApplication\bin\Debug\libusb-1.0.a
+C:\Users\Student\Desktop\TestApplication\bin\Debug\libusb-1.0.0.dylib
+C:\Users\Student\Desktop\TestApplication\bin\Debug\hidapi.dylib
+C:\Users\Student\Desktop\TestApplication\bin\Debug\hidapi.dll
+C:\Users\Student\Desktop\TestApplication\bin\Debug\TestApplication.exe
+C:\Users\Student\Desktop\TestApplication\bin\Debug\TestApplication.pdb
+C:\Users\Student\Desktop\TestApplication\bin\Debug\LibUsbDotNet.dll
+C:\Users\Student\Desktop\TestApplication\obj\x86\Debug\TestApplication.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\TestApplication\obj\x86\Debug\TestApplication.exe
+C:\Users\Student\Desktop\TestApplication\obj\x86\Debug\TestApplication.pdb
+C:\Users\L\Desktop\Visual Studio\TestApplication\bin\Debug\TestApplication.exe.config
+C:\Users\L\Desktop\Visual Studio\TestApplication\obj\x86\Debug\TestApplication.exe
+C:\Users\L\Desktop\Visual Studio\TestApplication\obj\x86\Debug\TestApplication.pdb
+C:\Users\L\Desktop\Visual Studio\TestApplication\bin\Debug\libusb-1.0.la
+C:\Users\L\Desktop\Visual Studio\TestApplication\bin\Debug\libusb-1.0.dylib
+C:\Users\L\Desktop\Visual Studio\TestApplication\bin\Debug\libusb-1.0.a
+C:\Users\L\Desktop\Visual Studio\TestApplication\bin\Debug\libusb-1.0.0.dylib
+C:\Users\L\Desktop\Visual Studio\TestApplication\bin\Debug\hidapi.dylib
+C:\Users\L\Desktop\Visual Studio\TestApplication\bin\Debug\hidapi.dll
+C:\Users\L\Desktop\Visual Studio\TestApplication\bin\Debug\TestApplication.exe
+C:\Users\L\Desktop\Visual Studio\TestApplication\bin\Debug\TestApplication.pdb
+C:\Users\L\Desktop\Visual Studio\TestApplication\bin\Debug\LibUsbDotNet.dll
+C:\Users\L\Desktop\Visual Studio\TestApplication\obj\x86\Debug\TestApplication.csprojResolveAssemblyReference.cache
+C:\Users\L\Desktop\Visual Studio\TestApplication Final\bin\Debug\TestApplication.exe.config
+C:\Users\L\Desktop\Visual Studio\TestApplication Final\obj\x86\Debug\TestApplication.exe
+C:\Users\L\Desktop\Visual Studio\TestApplication Final\obj\x86\Debug\TestApplication.pdb
+C:\Users\L\Desktop\Visual Studio\TestApplication Final\obj\x86\Debug\TestApplication.csprojResolveAssemblyReference.cache
+C:\Users\L\Desktop\Visual Studio\TestApplication Final\bin\Debug\libusb-1.0.la
+C:\Users\L\Desktop\Visual Studio\TestApplication Final\bin\Debug\libusb-1.0.dylib
+C:\Users\L\Desktop\Visual Studio\TestApplication Final\bin\Debug\libusb-1.0.a
+C:\Users\L\Desktop\Visual Studio\TestApplication Final\bin\Debug\libusb-1.0.0.dylib
+C:\Users\L\Desktop\Visual Studio\TestApplication Final\bin\Debug\hidapi.dylib
+C:\Users\L\Desktop\Visual Studio\TestApplication Final\bin\Debug\hidapi.dll
+C:\Users\L\Desktop\Visual Studio\TestApplication Final\bin\Debug\TestApplication.exe
+C:\Users\L\Desktop\Visual Studio\TestApplication Final\bin\Debug\TestApplication.pdb
+C:\Users\L\Desktop\Visual Studio\TestApplication Final\bin\Debug\LibUsbDotNet.dll
